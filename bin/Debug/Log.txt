@@ -1,0 +1,531 @@
+
+
+Time: 03-Jun-21 13:34:23	Vehicle No: 
+
+Time: 03-Jun-21 13:43:14	Vehicle No: PHILIPS 4
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 03-Jun-21 13:47:32	Vehicle No: welcome to
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 03-Jun-21 13:48:48	Vehicle No: welcome to
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 03-Jun-21 13:49:14	Vehicle No: welcome fo
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 03-Jun-21 13:51:01	Vehicle No: welcome fo giffgaff
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 03-Jun-21 13:53:06	Vehicle No: 
+
+Time: 20-Jun-21 12:22:34	Vehicle No: 
+
+Time: 20-Jun-21 13:37:59	Vehicle No: 
+
+Time: 20-Jun-21 13:38:38	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:38:53	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:40:02	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:47:00	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:47:13	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:47:26	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:47:58	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:48:08	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:53:20	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:53:43	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:54:39	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:54:45	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:55:41	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:55:55	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:56:15	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:56:23	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:56:30	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:56:40	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:58:03	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:58:18	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:58:41	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:58:57	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 13:59:23	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:01:26	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:01:36	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:02:39	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:03:00	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:03:29	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:26:43	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:27:08	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:27:26	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:36:24	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:36:58	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:37:07	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:37:17	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 14:59:20	Vehicle No: 
+
+Time: 20-Jun-21 14:59:25	Vehicle No: 
+
+Time: 20-Jun-21 14:59:27	Vehicle No: 
+
+Time: 20-Jun-21 14:59:37	Vehicle No: 
+
+Time: 20-Jun-21 14:59:47	Vehicle No: 
+
+Time: 20-Jun-21 14:59:59	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:00:42	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:01:43	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:01:57	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:03:52	Vehicle No: LEF6047
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:04:04	Vehicle No: LEF6047
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:05:25	Vehicle No: LEF6047
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:06:42	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:10:17	Vehicle No: 
+
+Time: 20-Jun-21 15:11:44	Vehicle No: 
+
+Time: 20-Jun-21 15:12:08	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:12:24	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:12:35	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:12:40	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:12:44	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:17:41	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:19:40	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:19:57	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:25:13	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:26:15	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:26:25	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:26:30	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:27:03	Vehicle No: LEF6047
+
+Verification Unsuccessful------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:27:59	Vehicle No: LEF6047
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 20-Jun-21 15:28:19	Vehicle No: LEF6047
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+Vehicle verification successful!
+Opening Gate
+Vehicle verification successful!
+Opening Gate
+
+Time: 9/9/2021 11:38:34 AM	Vehicle No: 
+
+Time: 9/9/2021 11:38:41 AM	Vehicle No: 
+
+Time: 9/9/2021 11:38:44 AM	Vehicle No: 
+
+Time: 9/9/2021 11:38:51 AM	Vehicle No: 
+
+Time: 9/9/2021 11:38:53 AM	Vehicle No: 
+
+Time: 9/9/2021 11:39:56 AM	Vehicle No: 
+
+Time: 9/9/2021 11:39:59 AM	Vehicle No: 
+
+Time: 9/9/2021 11:40:02 AM	Vehicle No: 
+
+Time: 9/9/2021 11:40:05 AM	Vehicle No: 
+
+Time: 9/9/2021 5:30:17 PM	Vehicle No: 
+
+Time: 9/9/2021 5:30:56 PM	Vehicle No: 
+
+Time: 9/9/2021 5:46:07 PM	Vehicle No: 
+
+Time: 9/9/2021 5:54:53 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 5:57:57 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 6:10:29 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 6:21:01 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 6:22:56 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:03:29 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:10:43 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:18:48 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:31:03 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:49:31 PM	Vehicle No: HZK1700
+
+
+Time: 9/9/2021 8:55:54 PM	Vehicle No: HZK1700
+------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:57:23 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/9/2021 8:57:52 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate
+
+Time: 9/9/2021 9:07:32 PM	Vehicle No: HZK1700
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/9/2021 9:08:04 PM	Vehicle No: HZK1700
+
+Vehicle Was Marked As Stolen
+Ringing Alert
+Vehicle Token Expired
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/9/2021 9:08:44 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/9/2021 9:10:48 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/9/2021 9:41:26 PM	Vehicle No: HZK1700
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/9/2021 9:41:51 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:16:59 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:18:15 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:18:33 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:20:09 PM	Vehicle No: HZK1700
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:20:58 PM	Vehicle No: HZK1700
+
+Vehicle Was Marked As Stolen
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:21:12 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 1:27:24 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 11:25:52 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 11:32:57 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/12/2021 11:39:11 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:05:58 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:10:20 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:13:53 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:16:11 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:21:00 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:23:23 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:26:22 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:28:09 AM	Vehicle No: STK7375
+
+Vehicle Token Expired
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:28:47 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 12:33:11 AM	Vehicle No: 
+
+Time: 9/13/2021 12:33:21 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 1:11:13 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 1:11:55 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/13/2021 1:13:10 PM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate                                                                              
+
+Time: 9/14/2021 10:14:18 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
+
+Time: 9/14/2021 10:14:39 AM	Vehicle No: STK7375
+
+Vehicle Token Expired
+Ringing Alert------------------------------------------------------------------------------
+
+Time: 9/14/2021 11:18:49 AM	Vehicle No: HZK1700
+
+Vehicle verification successful!
+Opening Gate------------------------------------------------------------------------------
